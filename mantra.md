@@ -15,3 +15,5 @@ You can't be involved in every aspect of a project. There's just not enough time
 In general, strive for best, not just good.
 
 You have to take care of yourself if you want your work life to be healthy. We're only human after all.
+
+**Always** ask lots of questions and do your research, especially if you're embarking on a project on your own. There's a decent chance that someone has already accomplished what you're hoping to. Don't duplicate effort unnecessarily.
