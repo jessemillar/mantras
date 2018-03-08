@@ -17,3 +17,24 @@ In general, strive for best, not just good.
 You have to take care of yourself if you want your work life to be healthy. We're only human after all.
 
 **Always** ask lots of questions and do your research, especially if you're embarking on a project on your own. There's a decent chance that someone has already accomplished what you're hoping to. Don't duplicate effort unnecessarily.
+
+
+Before you say "if you interrupt a developer its actually really hard for them to focus again"
+
+Remember the same applies for anyone doing any job.
+
+Thanks,
+
+Everyone else.
+
+- https://twitter.com/chopeh/status/971038126247415808
+
+
+It's been said before, but reminder:
+As a developer, your job isn't to write code.  It's to understand a complex system of human wants and technological realities, and know how to solve problems in that system. Code is a side effect.
+(h/t to @tsdower who I think I got this from)
+- https://twitter.com/not_napoleon/status/970130099243765760
+
+Think about Kaylee from Firefly. She kept Serenity flying and functional, but it maybe wasn't the prettiest at times. The functionality and reliability is what mattered, not the art of the engineering.
+
+Perfect code should be appreciated and analyzed, but not necessarily pushed for when there's no immediate benefit (there may be a benefit, but it might be fleeting or not worth the effort)
