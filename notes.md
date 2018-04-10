@@ -26,3 +26,5 @@ You Don't Need 500 Pickupable Objects: No, the lag is not worth being able to pi
 - https://allarsblog.com/2018/03/16/confessions-of-an-unreal-engine-4-engineering-firefighter/
 
 Sometimes you won't get individual credit for awesome things you've done. Often, that won't matter. Software development is about teams. Everyone works and everyone gets credit. What you should really focus on is making the product better. Recognition will come.
+
+Often, what you think was "solely" your work, was actually a team effort. Always think about other people to understand where they're coming from and what hand they had in decisions and implementations.
