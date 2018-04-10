@@ -24,3 +24,5 @@ It Works on My Machine: If you encounter a problem that 'works on my machine but
 
 You Don't Need 500 Pickupable Objects: No, the lag is not worth being able to pick up a single crayon from a box of 256 crayons. Unless your game is about crayons.
 - https://allarsblog.com/2018/03/16/confessions-of-an-unreal-engine-4-engineering-firefighter/
+
+Sometimes you won't get individual credit for awesome things you've done. Often, that won't matter. Software development is about teams. Everyone works and everyone gets credit. What you should really focus on is making the product better. Recognition will come.
