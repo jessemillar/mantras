@@ -32,3 +32,19 @@ Often, what you think was "solely" your work, was actually a team effort. Always
 "Disregard politics in this - that's your manager's job. Just tell him the facts and let him deal with the fallout." - https://workplace.stackexchange.com/questions/111250/how-to-talk-to-management-about-genius-code
 
 "As a general rule, management "want solutions, not problems". As such, saying "there are hardcoded secrets in the code" is a problem, whereas "Resolve hardcoded secrets regulatory failure: 0.5 days" is a solution." - https://workplace.stackexchange.com/questions/111250/how-to-talk-to-management-about-genius-code
+
+https://news.ycombinator.com/item?id=16960479
+
+* Don't ask people what they think about your idea. They'll either be supportive or mean to you. None of these are about your idea.
+
+If you are bored, create something. Make a clay pot, a drawing on paper, a JavaScript file, a wooden structure, a shoe rack, a sand castle, a matchstick home, a story. Make something you can look at the end result and you'll never get bored again...
+
+Build as many projects as time allows. It's nice to have the option to pick and choose.
+
+https://news.ycombinator.com/item?id=17318606
+
+Turn off the TV. Turn off all social media. Turn off any negative influences. Eat as healthy as you possibly can. Exercise, yoga, tai chi, or anything that gets you moving. Enjoy the benefits of all the time you thought you didn't have while having really good mental power because of your healthy diet and exercise. Live a good life.
+
+https://news.ycombinator.com/item?id=17319297
+
+https://news.ycombinator.com/item?id=17316120
