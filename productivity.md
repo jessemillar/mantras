@@ -10,3 +10,4 @@
 ## TODO
 
 - https://news.ycombinator.com/item?id=22253893
+- https://www.stevejgordon.co.uk/become-a-better-developer-by-reading-source-code
