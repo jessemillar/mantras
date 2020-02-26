@@ -20,8 +20,6 @@
 
 ## TODO
 
-> This section is for links or resources that seem promising that I haven't had time to look through yet.
-
 - [REMOTE: Office Note Required](https://basecamp.com/books/remote) is a book written by the folks at [Basecamp](https://basecamp.com/) (a fully-remote company)
 - https://basecamp.com/guides/group-chat-problems
 - https://basecamp.com/shapeup
