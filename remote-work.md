@@ -29,6 +29,10 @@
 	- "Understanding the positives and negatives [of chat], and how they play off one another, is central to getting the most out of something. Knowing the tradeoffs helps you assign value. Ignoring the cons because the pros are so good, or dismissing the pros because the cons are so bad, leaves you with a false sense of comfort and a cloudy picture of the reality on the ground."
 	- "There are lots of managers out there who love group chat because they can pop-in-and-out quickly and speak to many people at once, but there are a lot of employees out there sweating all day long trying to keep up appearances of being involved but knowing they have actual work to do. They can't stop thinking about how they're going to have to work late. They can't stop thinking about how the constant distractions during the week days means that Sunday night now belongs to their job. It's absolutely a real problem."
 	- "It's common in the software industry to blame the users. It's the user's fault. They don't know how to use it. They're using it wrong. They need to do this or do that. But the reality is that tools encourage specific behaviors. A product is a series of design decisions with a specific outcome in mind. Yes, you can use tools as they weren't intended, but most people follow the patterns suggested by the design. And so in the end, if people are exhausted and feeling unable to keep up, it's the tool's fault, not the user's fault. If the design leads to stress, it's a bad design."
+- https://www.inc.com/jeff-haden/it-only-takes-8-words-to-create-the-best-work-from-home-policy-youll-ever-see.html
+	1. Get your work done.
+	1. Be available.
+	1. Overcommunicate.
 
 ## Notes
 
