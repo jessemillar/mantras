@@ -38,7 +38,8 @@
 
 - Turn your video on in every meeting to help people know who you are and to show that you're paying attention in the meeting
 	- I've heard people say that when meeting attendees don't have their video enabled, it's easy to think that everyone is either not listening or they're upset with whatever you're saying
-- If you're a manager and you are trying to "appreciate" your employees with some sort of perk (e.g. free sandwiches in the break room, a membership to the local virtual golf club, etc.), please try to remember that you have remote employees. If you blast out an email about a perk to everyone (remote people included) and the remote person can't participate because of distance and you make no attempt at including them, it demoralizes instead of motivates. The solution to this is *not* a separate email distribution list for only the local employees. If you're giving out perks, you have to give them out at the same time to different groups (e.g. sandwiches in the break room and a Grubhub gift card for the remote people).
+- Don't be afraid to ask for help outside of the team/group you'd expect to get help from
+- Especially as a remote employee working with a remote team, "pestering" people for updates/direction/information is not something to be afraid of
 
 ## TODO
 

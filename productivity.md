@@ -9,6 +9,9 @@
 
 ## Programming
 
+- Documentation is crucially important, especially if you want new hires or outside collaborators to be able to jump in and assist in a timely manner
+  - Incorrect or outdated documentation does more harm than nonexistent documentation
+
 ## TODO
 
 - https://news.ycombinator.com/item?id=22253893
