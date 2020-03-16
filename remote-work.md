@@ -40,6 +40,10 @@
 	- I've heard people say that when meeting attendees don't have their video enabled, it's easy to think that everyone is either not listening or they're upset with whatever you're saying
 - Don't be afraid to ask for help outside of the team/group you'd expect to get help from
 - Especially as a remote employee working with a remote team, "pestering" people for updates/direction/information is not something to be afraid of
+- Many people find it helpful to have a fixed schedule (potentially with a morning "commute" in the form of a walk or jaunt to the coffee shop)
+	- Pay attention to your natural work rhythms. If you're more productive in the morning, tailor your schedule to that.
+- Work/life separation is paramount when working from home and it take actual effort to make sure it happens
+	- Having an office that is only used for work is helpful for some people (I don't personally do this because my desk is also used for hobby projects, gaming, etc.)
 
 ## TODO
 
